@@ -19,7 +19,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 💬 Ask me about - React, Anytime
 - 🥅 2021 Goal - Consistently building products and learn
 - 📫 How to reach me: webdevmastery22@gmailcom;
-- 📝 [Resume]().
+- 📝 [Resume](https://drive.google.com/file/d/1A7nEoHkC7u-dRUocZm9SxaDZi30hTbPW/edit).
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgurjar&count_private=true&include_all_commits=true&theme=radical)](https://google.com)

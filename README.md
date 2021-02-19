@@ -1,6 +1,6 @@
 ### Hi, I'm Nikhil Tale <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nikhilgurjar.nikhilgurjar)
 
 I am a full-stack software engineer and writer. I love programming and traveling.
 

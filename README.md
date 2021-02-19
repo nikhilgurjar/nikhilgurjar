@@ -1,18 +1,26 @@
 ### Hi, I'm Nikhil Tale <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Your short description
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+
+I am a full-stack software engineer and writer. I love programming and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+<img align="right" alt="GIF" src="https://github.com/nikhilgurjar/nikhilgurjar/blob/main/coding.gif?raw=true" width="408" height="318" />
+
 - 🔭 I’m currently working on - React and Node
 - 🌱 I’m currently learning - React Native
 - 👯 I’m looking to collaborate with - Other Developers in Community
 - 💬 Ask me about - React, Anytime
 - 🥅 2021 Goal - Consistently building products and learn
-
+- 📫 How to reach me: webdevmastery22@gmailcom;
+- 📝 [Resume]().
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgurjar&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tale-41b5a7173)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/webdev_mastery/)
 <br />
 
 <!-- Optional if you have blogs -->

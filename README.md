@@ -19,7 +19,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 💬 Ask me about - React, Anytime
 - 🥅 2021 Goal - Consistently building products and learn
 - 📫 How to reach me: webdevmastery22@gmailcom;
-- 📝 [Resume](https://drive.google.com/file/d/1A7nEoHkC7u-dRUocZm9SxaDZi30hTbPW/edit).
+- 📝 [Resume](https://drive.google.com/file/d/1DWRwj7980W0D4Zkh5jhaLBiIoeh3f74Q/view?usp=sharing).
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgurjar&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
@@ -29,3 +29,5 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!-- This section you create this variables that are used above -->
 
 [linkedin]: https://www.linkedin.com/in/nikhil-tale-41b5a7173/
+
+Reviews : https://youtu.be/_3X2NBb06s0

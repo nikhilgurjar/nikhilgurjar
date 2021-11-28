@@ -1,7 +1,7 @@
 ### Hi, I'm Nikhil Tale <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tale-41b5a7173)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhiltale)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/webdev_mastery/)
 <br />
 
@@ -18,7 +18,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 👯 I’m looking to collaborate with - Other Developers in Community
 - 💬 Ask me about - React, Anytime
 - 🥅 2021 Goal - Consistently building products and learn
-- 📫 How to reach me: gurjarnikhil2022@gmailcom;
+- 📫 How to reach me: gurjarnikhil2022@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1DWRwj7980W0D4Zkh5jhaLBiIoeh3f74Q/view?usp=sharing).
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
@@ -28,6 +28,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <!-- This section you create this variables that are used above -->
 
-[linkedin]: https://www.linkedin.com/in/nikhil-tale-41b5a7173/
+[linkedin]: https://www.linkedin.com/in/nikhiltale
 
 Reviews : https://youtu.be/_3X2NBb06s0
